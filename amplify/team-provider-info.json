@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "examplifyangular49b8b71c": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2qinowu5imf82",
+          "type": "manual"
+        }
       }
     }
   }
