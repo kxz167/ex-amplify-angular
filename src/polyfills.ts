@@ -51,3 +51,12 @@ import 'zone.js';  // Included with Angular CLI.
 /***************************************************************************************************
  * APPLICATION IMPORTS
  */
+// Amplify Angular 6+ support
+(window as any).global = window;
+(window as any).process = {
+    env: { DEBUG: undefined},
+}
+
+// IE11 Support: (DISABLED)
+// import 'core-js/es/typed-array';
+// import 'core-js/es/object';
