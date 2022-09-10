@@ -22,6 +22,7 @@
     "paths": {
       "@aberrant/ui": [
         "node_modules/@aberrant/ui",
+        "node_modules/@aberrant/ui/*",
       ],
     },
     "typeRoots": [
